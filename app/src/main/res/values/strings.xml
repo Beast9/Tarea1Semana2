@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea1Semana2</string>
+    <string name="titulo1">Ingresar Datos</string>
+    <string name="titulo2">Datos</string>
+    <string name="txtNombre">Nombre completo</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="txtFecha">Fecha de nacimiento</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtDescripcion">Desripción</string>
+    <string name="btnSig">Siguiente</string>
+    <string name="btnEditar">Editar Datos</string>
+
+
+</resources>
